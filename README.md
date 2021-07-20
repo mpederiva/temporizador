@@ -1,2 +1,2 @@
-# temporizador
-My version of Maiostri's countdown timer to practice CSS and JS.
+# Three-minute countdown timer
+This is my version of [Maiostri](https://github.com/maiostri)'s countdown timer. Developed during 2021 Santander's [Coders Web Full Stack](https://app.becas-santander.com/pt/program/bolsas-santander-tecnologia-santander-coders-web-full-stack-2021) scholarship program in partnership with [Let's Code](https://letscode.com.br/). There's a dash of HTML, a little bit more of CSS and, what we really wanted to practice, JavaScript.
